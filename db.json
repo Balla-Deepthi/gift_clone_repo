@@ -1,7 +1,7 @@
 {
   "Gifts":
-  [
-      {
+  
+      [{
         "id": 1,
         "title": "Blush Bloom Luxury Gift Box",
         "price": 109.95,
@@ -180,10 +180,8 @@
         "category": "Mom Gifts",
         "image": "https://i.pinimg.com/474x/94/86/6b/94866bc40beba0b9b5a745ab32a8883a.jpg"
         
-      }
-    ],
-    "Couple-gifts":
-    [
+      },
+    
       {
            "id": 21,
             "title": "Pamper Her Pretty – Mother’s Day Glow Box",
@@ -326,8 +324,8 @@
       "image": "https://i.pinimg.com/474x/58/a0/7b/58a07bc8e92363d7dd19b3953435998c.jpg"
     }
 
-    ],
-    "Art-gifts":[
+    ,
+    
       {
         "id": 41,
       "title": "Pamper Her Pretty – Mother’s Day Glow Box",
@@ -417,7 +415,7 @@
       "title": "Pamper Her Pretty – Mother’s Day Glow Box",
       "price": 12.99,
       "category": "Art Gifts",
-      "image": ""
+      "image": "https://i.pinimg.com/474x/95/80/76/958076a6dc8215f8a0b90decc890d992.jpg"
       },
       {
         "id": 54,
@@ -445,7 +443,7 @@
       "title": "Pamper Her Pretty – Mother’s Day Glow Box",
       "price": 12.99,
       "category": "Art Gifts",
-      "image": ""
+      "image": "https://i.pinimg.com/474x/c2/65/d6/c265d6519aaea5746afa61a11c3579e3.jpg"
       },
       {
         "id": 57,
@@ -475,6 +473,6 @@
       "category": "Art Gifts",
       "image": "https://i.pinimg.com/474x/63/78/43/637843405d59d83ee0937d672bda52b1.jpg"
       }
+    
     ]
-  
 }
